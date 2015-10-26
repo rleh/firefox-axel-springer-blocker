@@ -2,7 +2,7 @@
 
 Firefox Addon zum blocken von Seiten des Axel Springer Verlags.
 
-*Falls man sich mal wieder verklickt hat, wird man von einem grellen roten Warnhinweis vom Konsum der Erzeignisse des Axel Springer Verlags abgehalten.*
+Falls man sich mal wieder verklickt hat, wird man von einem Warnhinweis vom Konsum der Erzeugnisse des Axel Springer Verlags abgehalten...
 
 
 ## Achtung
