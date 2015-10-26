@@ -14,6 +14,8 @@ Es handelt sich hierbei um *Kunst*!
 
 Bald hier ...
 
+Oder [hier](https://github.com/rleh/firefox-axel-springer-blocker/archive/master.zip), die Datei muss in ```addon.xpi``` umbenannt werden.
+
 
 ## Dank
 
